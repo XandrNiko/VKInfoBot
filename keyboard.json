@@ -1,0 +1,26 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Новичку"
+      },
+      "color": "negative"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Чем я могу помочь?"
+        },
+        "color": "negative"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "B_3"
+      },
+      "color": "default"
+    }]
+  ]
+}
